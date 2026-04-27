@@ -14,7 +14,7 @@
 </div>
 
 <!-- ABOUT ME -->
-###👨‍💻 About me
+👨‍💻 About me
 
 I'm **Ivan**, finishing my Advanced Vocational Training in **Multiplatform Application Development (DAM)**.
 
@@ -30,7 +30,8 @@ Outside of programming, I'm passionate about nature and cars — two things that
 
 ---
 
-###🗂️ Featured Project
+🗂️ Featured Project
+<br>
 **ZIO Autos** is my Final Year Project and my most personal bet as a developer.
 
 I created it because I'm genuinely passionate about the automotive world — and I couldn't find an app that had everything I wanted. So I built it myself.
@@ -54,29 +55,32 @@ ZIO Autos includes features that very few apps in this space offer, or that simp
 
 ---
 
-### Tech Skills
+### 🛠️Tech Skills
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="120px"><b>Mobile</b></td>
+<td align="center" width="140px"><b>Mobile</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=10" height="48"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=10" height="48"/>
 </td>
 </tr>
+
 <tr>
 <td align="center"><b>Frontend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ionic,html,css,js,ts,bootstrap&perline=10" height="48"/>
 </td>
 </tr>
+
 <tr>
 <td align="center"><b>Backend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=spring,java,python&perline=10" height="48"/>
 </td>
 </tr>
+
 <tr>
 <td align="center"><b>Database</b></td>
 <td>
@@ -87,6 +91,7 @@ ZIO Autos includes features that very few apps in this space offer, or that simp
 <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" height="28"/>
 </td>
 </tr>
+
 <tr>
 <td align="center"><b>Tools</b></td>
 <td>
@@ -97,6 +102,7 @@ ZIO Autos includes features that very few apps in this space offer, or that simp
 <img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnubash&logoColor=white" height="28"/>
 </td>
 </tr>
+
 <tr>
 <td align="center"><b>Automation</b></td>
 <td>
@@ -104,6 +110,7 @@ ZIO Autos includes features that very few apps in this space offer, or that simp
 </td>
 </tr>
 </table>
+
 
 </div>
 
@@ -176,7 +183,7 @@ ZIO Autos incluye funcionalidades que muy pocas apps del sector tienen, o que di
 
 ---
 
-### Habilidades técnicas
+### 🛠️Habilidades técnicas
 
 <div align="center">
 
