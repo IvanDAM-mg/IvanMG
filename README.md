@@ -30,7 +30,7 @@
 
 ### About me
 
-I'm **Ivan**, finishing my Advanced Vocational Training in **Multiplatform Application Development (DAM)** in Seville, Spain.
+I'm **Ivan**, finishing my Advanced Vocational Training in **Multiplatform Application Development (DAM)**.
 
 During my studies I completed an internship as a programmer at **[Ordinaly Software](https://ordinaly.ai/en)**, a Seville-based startup focused on automating and optimizing business processes through Artificial Intelligence — my first real experience in a professional tech environment.
 
@@ -169,7 +169,7 @@ Got a project, an idea, or just want to reach out?
 
 ### Sobre mí
 
-Soy **Iván**, terminando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Sevilla.
+Soy **Iván**, terminando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 Durante mis estudios realicé mis prácticas como programador en **[Ordinaly Software](https://ordinaly.ai)**, una startup sevillana centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial — mi primer contacto real con el mundo profesional del desarrollo.
 
@@ -283,10 +283,14 @@ ZIO Autos incluye funcionalidades que muy pocas apps del sector tienen, o que di
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/[TU-LINKEDIN]">
+<a href="https://www.linkedin.com/in/ivan-moreno-giles-499a49386/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:[TU-EMAIL]">
+<a href="mailto:imorenogiles3@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
+
+<div align="center">
+<sub>always building something · siempre construyendo algo</sub>
+</div>
