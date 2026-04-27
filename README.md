@@ -13,22 +13,8 @@
 
 </div>
 
-<br/>
-
----
-
-<div align="center"><h2>English</h2></div>
-
----
-
-<br/>
-
 <!-- ABOUT ME -->
-<img align="left" src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=388BFD&width=200&lines=DAM+Student;Flutter+Developer;Always+Building" alt="Typing SVG" />
-
-<br/><br/>
-
-### About me
+###👨‍💻 About me
 
 I'm **Ivan**, finishing my Advanced Vocational Training in **Multiplatform Application Development (DAM)**.
 
@@ -44,18 +30,7 @@ Outside of programming, I'm passionate about nature and cars — two things that
 
 ---
 
-### Featured Project
-
-<div align="center">
-
-<a href="https://github.com/IvanDAM-mg">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanDAM-mg&repo=zio-autos&theme=github_dark&hide_border=true&title_color=388bfd&icon_color=388bfd" />
-</a>
-
-</div>
-
-<br/>
-
+###🗂️ Featured Project
 **ZIO Autos** is my Final Year Project and my most personal bet as a developer.
 
 I created it because I'm genuinely passionate about the automotive world — and I couldn't find an app that had everything I wanted. So I built it myself.
@@ -68,10 +43,10 @@ ZIO Autos includes features that very few apps in this space offer, or that simp
 
 | | |
 |:--|:--|
-| Language | Flutter · Dart |
-| Platform | Android · iOS — single codebase |
-| Status | Active development |
-| Goal | Play Store + App Store release |
+|🧩 Language | Flutter · Dart |
+|📲 Platform | Android · iOS — single codebase |
+|⚙️ Status | Active development |
+|🎯 Goal | Play Store + App Store release |
 
 </div>
 
@@ -144,11 +119,11 @@ Got a project, an idea, or just want to reach out?
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/[TU-LINKEDIN]">
+<a href="https://www.linkedin.com/in/ivan-moreno-giles-499a49386/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:[TU-EMAIL]">
+<a href="mailto:imorenogiles3@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 
@@ -157,17 +132,8 @@ Got a project, an idea, or just want to reach out?
 <br/>
 
 ---
----
 
-<br/>
-
-<div align="center"><h2>Español</h2></div>
-
----
-
-<br/>
-
-### Sobre mí
+### 👨‍💻 Sobre mí
 
 Soy **Iván**, terminando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
@@ -183,17 +149,7 @@ Fuera de la programación, me apasionan la naturaleza y los coches — dos cosas
 
 ---
 
-### Proyecto a destacar
-
-<div align="center">
-
-<a href="https://github.com/IvanDAM-mg">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanDAM-mg&repo=zio-autos&theme=github_dark&hide_border=true&title_color=388bfd&icon_color=388bfd" />
-</a>
-
-</div>
-
-<br/>
+### 🗂️ Proyecto a destacar
 
 **ZIO Autos** es mi Proyecto de Fin de Ciclo y mi apuesta más personal como desarrollador.
 
@@ -207,10 +163,10 @@ ZIO Autos incluye funcionalidades que muy pocas apps del sector tienen, o que di
 
 | | |
 |:--|:--|
-| Lenguaje | Flutter · Dart |
-| Plataforma | Android · iOS — un solo código |
-| Estado | En desarrollo activo |
-| Objetivo | Lanzamiento en Play Store + App Store |
+|🧩 Lenguaje | Flutter · Dart |
+|📲 Plataforma | Android · iOS — un solo código |
+|⚙️ Estado | En desarrollo activo |
+|🎯 Objetivo | Lanzamiento en Play Store + App Store |
 
 </div>
 
