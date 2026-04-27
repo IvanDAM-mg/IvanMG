@@ -1,11 +1,5 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     GitHub Profile README — Iván · IvanDAM-mg
-     ─────────────────────────────────────────────────────────────
-     SETUP (5 min):
-     1. Create a repo named exactly like your GitHub username
-     2. Replace every [PLACEHOLDER] with your real data
-     3. Paste this file as README.md and commit
-     ═══════════════════════════════════════════════════════════════ -->
+# README.md — Iván · IvanDAM-mg
+# Reemplaza: [TU-LINKEDIN] y [TU-EMAIL] con tus datos reales
 
 <!-- BANNER -->
 <div align="center">
@@ -14,11 +8,10 @@
 
 <br/>
 
-<!-- LANGUAGE SWITCHER -->
+<!-- SELECTOR DE IDIOMA -->
 <div align="center">
 
-[![English](https://img.shields.io/badge/🇬🇧_English-click_here-0A66C2?style=flat-square)](https://github.com/IvanDAM-mg/IvanDAM-mg#-about-me)&nbsp;&nbsp;
-[![Español](https://img.shields.io/badge/🇪🇸_Español-haz_clic-C0392B?style=flat-square)](https://github.com/IvanDAM-mg/IvanDAM-mg#-sobre-m%C3%AD)
+[🇬🇧 English](#-about-me) &nbsp;·&nbsp; [🇪🇸 Español](#-sobre-mí)
 
 </div>
 
@@ -28,26 +21,39 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-I'm **Iván**, a student of the **Higher Degree in Multiplatform Application Development** in Seville, Spain.
+I'm **Iván**, and I'm currently finishing my Advanced Vocational Training in **Multiplatform Application Development (DAM)** in Seville, Spain.
 
-I'm building my first mobile app — [**ZIO Autos**](#-zio-autos--mi-proyecto-estrella) — a passion project about the world of cars, developed entirely in Flutter for both Android and iOS. No hand-holding, no tutorial to follow. Just a real product being built from scratch.
+During my studies I completed an internship as a programmer at **[Ordinaly Software](https://ordinaly.ai/en)**, a Seville-based startup focused on automating and optimizing business processes through Artificial Intelligence — which gave me my first real taste of working in a professional tech environment.
 
-My approach to learning is simple: pick something ambitious, build it, and figure it out along the way. That's how I got into Flutter, and that's how I plan to keep growing.
+Throughout my training I've gained practical experience through both academic and industry projects. The one I'm most proud of is my **Final Year Project, [ZIO Autos](#-zio-autos--featured-project)** — a mobile app currently in active development.
+
+I've also built other projects along the way, like an **Android nutrition and diet app**, which gave me hands-on experience with mobile development before jumping into Flutter.
+
+Outside of programming, I've always been passionate about nature and cars — two things that, unsurprisingly, ended up inspiring my biggest project.
 
 📍 Sevilla, Spain &nbsp;·&nbsp; 🟢 Open to opportunities
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-Soy **Iván**, estudiante del **Grado Superior de Desarrollo de Aplicaciones Multiplataforma** en Sevilla.
+```
+currently working on:
+┌─────────────────────┐
+│  🚗 ZIO Autos       │
+│  Flutter · Dart     │
+│  Android + iOS      │
+│  Status: building   │
+└─────────────────────┘
 
-Estoy desarrollando mi primera app móvil — [**ZIO Autos**](#-zio-autos--mi-proyecto-estrella) — un proyecto personal sobre el mundo del motor, construido en Flutter para Android e iOS. Sin guía, sin curso que seguir. Un producto real hecho desde cero.
+studying:
+DAM — Grado Superior
+Multiplatform Dev
 
-Mi forma de aprender es simple: elegir algo ambicioso, construirlo y resolver los problemas por el camino. Así llegué a Flutter y así pienso seguir creciendo.
-
-📍 Sevilla, España &nbsp;·&nbsp; 🟢 Abierto a oportunidades
+based in:
+Sevilla 🇪🇸
+```
 
 </td>
 </tr>
@@ -55,110 +61,90 @@ Mi forma de aprender es simple: elegir algo ambicioso, construirlo y resolver lo
 
 ---
 
-## 🛠️ | Tech skills · Habilidades técnicas
+## 🚗 ZIO Autos · Featured Project
 
-> *Honest self-assessment — no inflated numbers · Valoración honesta, sin inflar niveles*
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                    🚗  ZIO AUTOS                         ║
+║              The world of cars, in your pocket            ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+ZIO Autos is my **Final Year Project** and my most personal bet as a developer.
+
+I created it because I'm genuinely passionate about the automotive world — and I couldn't find an app that had everything I wanted. So I built it myself.
+
+What makes it ambitious isn't just the idea — it's the execution. I decided to build it in **Flutter/Dart**, a language I had never used before, so I could ship a **single codebase for both Android and iOS**. I taught myself Flutter while building the actual product. No separate tutorial project — straight into the real thing.
+
+ZIO Autos includes features that very few apps in the space offer, or that simply don't exist elsewhere. The end goal is simple: **launch on the Play Store and App Store**, and let people enjoy it.
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **Language** | Flutter · Dart |
+| **Platform** | Android · iOS (single codebase) |
+| **Type** | Final Year Project · Personal project |
+| **Status** | 🚧 Active development |
+| **Goal** | 🎯 Play Store + App Store release |
+
+</div>
+
+---
+
+## 🛠️ | Tech Skills
 
 <table>
 <tr>
 <td><strong>📱 Mobile</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><strong>🔧 Tools</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><strong>🔐 Security</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/Cybersecurity-coming_soon-lightgrey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black"/>
 </td>
 </tr>
 <tr>
 <td><strong>📚 Learning</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_APIs-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square"/>
 </td>
 </tr>
-</table>
-
-> 💡 *This table grows as I do — check back often · Esta tabla crece conmigo, vuelve pronto*
-
----
-
-## 🚗 ZIO Autos · Mi proyecto estrella
-
-<table>
 <tr>
-<td width="50%" valign="top">
-
-**🇬🇧 What is it?**
-
-ZIO Autos is my first real mobile application — a platform built around the world of cars. Currently in active development as my **Final Year Project**, the app covers a wide range of features for car enthusiasts: [add a couple of your key features here, e.g. vehicle tracking, specs comparator, community, etc.].
-
-Built entirely in **Flutter**, targeting both **Android and iOS** from a single codebase. Every decision — architecture, UI, backend — is made by me.
-
-> *This is not a tutorial project. This is the real thing.*
-
-</td>
-<td width="50%" valign="top">
-
-**🇪🇸 ¿Qué es?**
-
-ZIO Autos es mi primera aplicación móvil real — una plataforma centrada en el mundo del motor. En desarrollo activo como **Trabajo de Fin de Ciclo**, la app incluye una amplia variedad de funcionalidades para aficionados al motor: [añade aquí tus funcionalidades clave, ej: seguimiento de vehículos, comparador, comunidad, etc.].
-
-Desarrollada íntegramente en **Flutter**, con soporte para **Android e iOS** desde un único código. Cada decisión — arquitectura, UI, backend — la tomo yo.
-
-> *Este no es un proyecto de tutorial. Es el proyecto real.*
-
+<td><strong>🔐 Soon</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Cybersecurity-coming_soon-lightgrey?style=flat-square"/>
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-| | |
-|---|---|
-| **Stack** | Flutter · Dart · [add backend if any] |
-| **Platform** | Android · iOS |
-| **Status** | 🚧 In active development · En desarrollo activo |
-| **Type** | Final Year Project · Proyecto TFC personal |
-
-</div>
+> 💡 *This list grows as I do — check back often*
 
 ---
 
 ## 🏆 | Achievements · Logros
 
-| | Achievement | Status |
-|---|---|---|
-| 🏗️ | **First Commit** — The journey of a thousand commits starts with one | ✅ |
-| 📱 | **App Builder** — Building a real cross-platform app from scratch | ✅ |
-| 🌐 | **Self-Taught Flutter** — Zero hand-holding, pure curiosity | ✅ |
-| 🔐 | **Security Cert** — Cybersecurity certification | 🔒 Soon |
-| 🤝 | **First Collaboration** — First PR on an external project | 🔒 |
-| 💼 | **First Job** — Hired. The final boss | 🔒 |
-
----
-
-## 📊 | GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=IvanDAM-mg&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=555555&icon_color=378ADD&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDAM-mg&layout=compact&hide_border=true&title_color=111111&text_color=555555&langs_count=6"/>
-
-</div>
+| | EN | ES | Status |
+|:---:|:---|:---|:---:|
+| 🏗️ | **First Commit** — Every great project starts somewhere | **Primer commit** — Todo gran proyecto empieza en algún lugar | ✅ |
+| 💼 | **Real Experience** — Internship at an AI startup | **Experiencia real** — Prácticas en una startup de IA | ✅ |
+| 📱 | **App Builder** — Built a real cross-platform app from scratch | **Constructor de apps** — App real multiplataforma desde cero | ✅ |
+| 🌐 | **Self-Taught** — Learned Flutter while building the actual product | **Autodidacta** — Aprendí Flutter construyendo el producto real | ✅ |
+| 🚀 | **Ship It** — ZIO Autos live on Play Store + App Store | **Lanzamiento** — ZIO Autos en Play Store y App Store | 🔒 |
+| 💼 | **First Job** — Hired. The final boss | **Primer empleo** — Contratado. El jefe final | 🔒 |
 
 ---
 
@@ -168,28 +154,96 @@ Desarrollada íntegramente en **Flutter**, con soporte para **Android e iOS** de
 <tr>
 <td width="50%" valign="top">
 
-**🇬🇧** Got a project, an idea, or just want to say hi? I'm always open to a conversation.
+**🇬🇧** Got a project, an idea, or just want to reach out?
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME])
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU-LINKEDIN])
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[TU-EMAIL])
 
 </td>
 <td width="50%" valign="top">
 
-**🇪🇸** ¿Tienes un proyecto, una idea, o simplemente quieres saludar? Siempre estoy abierto a una conversación.
+**🇪🇸** ¿Tienes un proyecto, una idea o simplemente quieres contactar?
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME])
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Escríbeme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU-LINKEDIN])
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Escríbeme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[TU-EMAIL])
 
 </td>
 </tr>
 </table>
+
+---
+
+## 👨‍💻 | Sobre mí
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Soy **Iván**, actualmente terminando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Sevilla.
+
+Durante mis estudios realicé mis prácticas como programador en **[Ordinaly Software](https://ordinaly.ai)**, una startup sevillana centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial — mi primer contacto real con el mundo profesional del desarrollo.
+
+A lo largo de la formación he adquirido experiencia práctica en proyectos académicos y del sector. El que más me enorgullece es mi **Proyecto de Fin de Ciclo, [ZIO Autos](#-zio-autos--featured-project)** — una app móvil en desarrollo activo.
+
+Por el camino también he creado otros proyectos, como una **app de Android de dietas y nutrición**, que me dio experiencia práctica en desarrollo móvil antes de meterme de lleno en Flutter.
+
+Fuera de la programación, me apasionan la naturaleza y los coches — dos cosas que, no por casualidad, acabaron inspirando mi proyecto más grande.
+
+📍 Sevilla, España &nbsp;·&nbsp; 🟢 Abierto a oportunidades
+
+</td>
+<td width="40%" valign="top">
+
+```
+actualmente trabajando en:
+┌─────────────────────┐
+│  🚗 ZIO Autos       │
+│  Flutter · Dart     │
+│  Android + iOS      │
+│  Estado: building   │
+└─────────────────────┘
+
+estudiando:
+DAM — Grado Superior
+Desarrollo Multiplataforma
+
+ubicación:
+Sevilla 🇪🇸
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚗 ZIO Autos · Proyecto a destacar
+
+ZIO Autos es mi **Proyecto de Fin de Ciclo** y mi apuesta más personal como desarrollador.
+
+Lo creé porque soy un apasionado del mundo del motor — y no encontraba una app que tuviese todo lo que buscaba. Así que la construí yo mismo.
+
+Lo ambicioso no es solo la idea — es la ejecución. Decidí desarrollarla en **Flutter/Dart**, un lenguaje que no conocía de antes, para poder lanzar una **única base de código tanto para Android como para iOS**. Aprendí Flutter mientras construía el producto real. Sin proyecto tutorial aparte — directamente al grano.
+
+ZIO Autos incluye funcionalidades que muy pocas apps del sector tienen, o que directamente no existen. El objetivo final es claro: **lanzarla en Play Store y App Store** para que la gente pueda disfrutarla.
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **Lenguaje** | Flutter · Dart |
+| **Plataforma** | Android · iOS (un solo código) |
+| **Tipo** | Proyecto Fin de Ciclo · Proyecto personal |
+| **Estado** | 🚧 En desarrollo activo |
+| **Objetivo** | 🎯 Lanzamiento en Play Store + App Store |
+
+</div>
 
 ---
 
