@@ -1,5 +1,3 @@
-# README.md — Iván · IvanDAM-mg
-# Reemplaza: [TU-LINKEDIN] y [TU-EMAIL] con tus datos reales
 
 <!-- BANNER -->
 <div align="center">
@@ -19,10 +17,6 @@
 
 ## 👨‍💻 | About me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 I'm **Iván**, and I'm currently finishing my Advanced Vocational Training in **Multiplatform Application Development (DAM)** in Seville, Spain.
 
 During my studies I completed an internship as a programmer at **[Ordinaly Software](https://ordinaly.ai/en)**, a Seville-based startup focused on automating and optimizing business processes through Artificial Intelligence — which gave me my first real taste of working in a professional tech environment.
@@ -33,46 +27,10 @@ I've also built other projects along the way, like an **Android nutrition and di
 
 Outside of programming, I've always been passionate about nature and cars — two things that, unsurprisingly, ended up inspiring my biggest project.
 
-📍 Sevilla, Spain &nbsp;·&nbsp; 🟢 Open to opportunities
-
-</td>
-<td width="40%" valign="top">
-
-```
-currently working on:
-┌─────────────────────┐
-│  🚗 ZIO Autos       │
-│  Flutter · Dart     │
-│  Android + iOS      │
-│  Status: building   │
-└─────────────────────┘
-
-studying:
-DAM — Grado Superior
-Multiplatform Dev
-
-based in:
-Sevilla 🇪🇸
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🚗 ZIO Autos · Featured Project
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    🚗  ZIO AUTOS                         ║
-║              The world of cars, in your pocket            ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
+## ZIO Autos · Featured Project
 
 ZIO Autos is my **Final Year Project** and my most personal bet as a developer.
 
@@ -181,10 +139,6 @@ ZIO Autos includes features that very few apps in the space offer, or that simpl
 
 ## 👨‍💻 | Sobre mí
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 Soy **Iván**, actualmente terminando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Sevilla.
 
 Durante mis estudios realicé mis prácticas como programador en **[Ordinaly Software](https://ordinaly.ai)**, una startup sevillana centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial — mi primer contacto real con el mundo profesional del desarrollo.
@@ -195,33 +149,6 @@ Por el camino también he creado otros proyectos, como una **app de Android de d
 
 Fuera de la programación, me apasionan la naturaleza y los coches — dos cosas que, no por casualidad, acabaron inspirando mi proyecto más grande.
 
-📍 Sevilla, España &nbsp;·&nbsp; 🟢 Abierto a oportunidades
-
-</td>
-<td width="40%" valign="top">
-
-```
-actualmente trabajando en:
-┌─────────────────────┐
-│  🚗 ZIO Autos       │
-│  Flutter · Dart     │
-│  Android + iOS      │
-│  Estado: building   │
-└─────────────────────┘
-
-estudiando:
-DAM — Grado Superior
-Desarrollo Multiplataforma
-
-ubicación:
-Sevilla 🇪🇸
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚗 ZIO Autos · Proyecto a destacar
 
@@ -244,13 +171,5 @@ ZIO Autos incluye funcionalidades que muy pocas apps del sector tienen, o que di
 | **Objetivo** | 🎯 Lanzamiento en Play Store + App Store |
 
 </div>
-
----
-
-<div align="center">
-
-```
-// always building something · siempre construyendo algo
-```
 
 </div>
