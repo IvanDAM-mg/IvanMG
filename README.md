@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="assets/ivan_banner_epic.gif" width="100%" alt="Ivan"/>
+  <img src="banner_profile.png" width="100%" alt="Ivan"/>
 </div>
 
 <br/>
